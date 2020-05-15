@@ -1,4 +1,6 @@
 <?php
+    echo $_SERVER['SERVER_NAME'];
+
     require("config.php");
 
     $link = mysql_connect(HOST, USER, PASS);
