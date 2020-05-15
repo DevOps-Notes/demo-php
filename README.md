@@ -1,2 +1,2 @@
 # demo-php
-* A test PHP page for quick-deploy.
+* A PHP page for continuous integration test.
